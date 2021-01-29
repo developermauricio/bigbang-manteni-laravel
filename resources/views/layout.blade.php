@@ -77,8 +77,8 @@
               </div>
               <div class="row" style="padding-top: 0px !important;">
                 <div class="col-12">
-                  <p style="margin-bottom: 0px !important; font-weight: 700; font-family: Arial, Helvetica, sans-serif; line-height: 2.8rem; font-size: 2rem;">CLO - PANAMÁ</p>
-                  <p  style="font-weight: 700; font-family: Arial, Helvetica, sans-serif; line-height: 2.8rem; font-size: 2rem;">BTÁ - BQA - QUITO - SAN JOSÉ - MIAMI - BARCELONA</p>
+                  <p style="margin-bottom: 0px !important; font-weight: 700; font-family: Arial, Helvetica, sans-serif; line-height: 2.8rem; font-size: 1.8rem;">COLOMBIA - PANAMÁ</p>
+                  <p  style="font-weight: 700; font-family: Arial, Helvetica, sans-serif; line-height: 2.8rem; font-size: 1.8rem;">BOGOTÁ - BUCARAMANGA - QUITO - SAN JOSÉ - MIAMI - BARCELONA</p>
                 </div>
               </div>
               <p class="small"><a href="http://bbigroup.com.co">©2021 <i class="fa fa-heart fa-fw"></i>Powered by Big Bang Ideas Group SAS</a></p>
