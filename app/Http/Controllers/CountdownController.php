@@ -46,7 +46,7 @@ class CountdownController extends Controller
         $information->email = $request->email;
         $information->save();
         Mail::to($information->email)->send(new Newsletter());
-        Mail::to('mauricio.gutierrez@creategicalatina.com')->send(new NewClienteRegister($information->email));
+        Mail::to('hola@creategicalatina.com')->send(new NewClienteRegister($information->email));
         return back()->with('exito', '¡Gracias por inscribirte! Hemos enviado un correo electrónico de confirmación.');
 
     }
