@@ -2063,14 +2063,14 @@ li .shop-cart {
 
 @media (max-width:5000px) and (min-width: 654px) {
   .backgroud_page{
-    background-image: url(../img/main/background_2.jpg) !important;
+    background-image: url(/img/main/background_2.jpg) !important;
   
   }
 }
 
 @media (max-width: 653px) and (min-width: 319px) {
   .backgroud_page{
-    background-image: url(../img/main/background_3.jpg) !important;
+    background-image: url(/img/main/background_3.jpg);
   
   }
 }

@@ -26,7 +26,7 @@
     </div>
     
     <!-- Header-->
-    <header class="intro intro-fullscreen">
+    <header class="intro intro-fullscreen backgroud_page">
     
       <div class="magic2" id="magic2">
         <canvas id="magic2-canvas"></canvas>
