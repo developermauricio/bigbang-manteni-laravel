@@ -35,10 +35,19 @@
         <div class="container">
           <div class="row">
             <div class="col-sm-8 col-sm-offset-2">
+            <img src="/img/main/logo.png" width="180" alt="">
               <h1 class="no-pad"><span class="rotate">crear, conectar, ejecutar</span></h1>
               <p class="no-pad"><span class="rotate" style="font-size: 1.8rem;">nuevas posibilidades., con los seres humanos indicados., con las tecnologías adecuadas.</span></p>
               <!-- countdown-->
               <div class="no-pad-top" id="clock"></div>
+              <div class="row">
+                <div class="col-12">
+                  <p style="font-weight: 600; line-height: 2.5rem;font-size: 1.7rem; font-style: oblique; font-family: Arial, Helvetica, sans-serif; text-align: center;">Estamos rediseñando nuestro sitio web para contarle porque no hablamos de transformación digital, hablamos de competitividad tecnológica y cómo esta le ayudará a que su idea se convierta en un negocio de otro planeta.</p>
+                </div>
+                <div class="col-12">
+                <p style="font-weight: 500;">Regístrese y sea el primero en saberlo</p>
+                </div>
+              </div>
               <!-- MailChimp Signup Form - Replace the form action in the line below with your MailChimp embed action! For more information on how to do this please visit the Docs!-->
              <form class="small-form subscribe-form" id="mc-embedded-subscribe-form2" action="{{ route('newsletter') }}" method="POST">
              @csrf
@@ -56,7 +65,7 @@
                   <div class="response" id="mce-success-response2" style="display:none;"></div>
                 </div>
               </form>
-              <img src="/img/main/logo.png" width="150" alt="">
+              
             
               <!-- End MailChimp Signup Form-->
              <!--  <ul class="list-inline">
@@ -65,11 +74,7 @@
                 <li><a href="/"><i class="fa fa-google-plus fa-fw fa-2x"></i></a></li>
                 <li><a href="/"><i class="fa fa-linkedin fa-fw fa-2x"></i></a></li>
               </ul> -->
-              <div class="row">
-                <div class="col-12">
-                  <p style="font-weight: 600; line-height: 2.5rem;font-size: 1.7rem; font-style: oblique; font-family: Arial, Helvetica, sans-serif; text-align: center;">Estamos rediseñando nuestro sitio web para contarle porque no hablamos de transformación digital, hablamos de competitividad tecnológica y cómo esta le ayudará a que su idea se convierta en un negocio de otro planeta.</p>
-                </div>
-              </div>
+              
                <div class="row" style="padding-top: 0px !important;">
                 <div class="col-12">
                   <p style="font-weight: 700; font-family: Arial, Helvetica, sans-serif; line-height: 2rem; font-size: 1.8rem;">Estamos en:</p>
@@ -77,8 +82,7 @@
               </div>
               <div class="row" style="padding-top: 0px !important;">
                 <div class="col-12">
-                  <p style="margin-bottom: 0px !important; font-weight: 700; font-family: Arial, Helvetica, sans-serif; line-height: 2.8rem; font-size: 1.8rem;">COLOMBIA - PANAMÁ</p>
-                  <p  style="font-weight: 700; font-family: Arial, Helvetica, sans-serif; line-height: 2.8rem; font-size: 1.8rem;">BOGOTÁ - BUCARAMANGA - QUITO - SAN JOSÉ - MIAMI - BARCELONA</p>
+                  <p  style="font-weight: 700; font-family: Arial, Helvetica, sans-serif; line-height: 2.8rem; font-size: 1.8rem;">BOGOTÁ - CALI - BARRANQUILLA - PANAMÁ - QUITO - SAN JOSÉ - MIAMI - BARCELONA</p>
                 </div>
               </div>
               <p class="small"><a href="http://bbigroup.com.co">©2021 <i class="fa fa-heart fa-fw"></i>Powered by Big Bang Ideas Group SAS</a></p>
